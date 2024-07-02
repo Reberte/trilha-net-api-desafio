@@ -59,4 +59,4 @@ O código está pela metade, e você deverá dar continuidade obedecendo as regr
 
 ## PROJETO FINALIZADO 02/07/2024
 Marcos Reberte da Silva
-http://github/Reberte
+http://github.com/Reberte
