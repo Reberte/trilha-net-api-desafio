@@ -48,7 +48,7 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
   "id": 0,
   "titulo": "string",
   "descricao": "string",
-  "data": "2022-06-08T01:31:07.056Z",
+  "data": "2024-07-02T01:31:07.056Z",
   "status": "Pendente"
 }
 ```
@@ -56,3 +56,7 @@ Esse é o schema (model) de Tarefa, utilizado para passar para os métodos que e
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## PROJETO FINALIZADO 02/07/2024
+Marcos Reberte da Silva
+http://github/Reberte
